@@ -4,3 +4,5 @@ class teste extends banco{
 	
 }
 ?>
+
+<!--Não estou usando....-->

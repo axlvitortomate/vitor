@@ -8,7 +8,7 @@
 	<title>New Google</title>
 <!--CSS-->
 <!--<link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css">-->
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/style2.css">
 <!--JS-->
 	<script src="js/script.js"></script>
 <!--CDN Google Material Designe Lite-->
